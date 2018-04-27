@@ -1,0 +1,7 @@
+c:\users\justi\source\repos\Capstone1_PigLat\Capstone1_PigLat\obj\Debug\Capstone1_PigLat.csprojResolveAssemblyReference.cache
+c:\users\justi\source\repos\Capstone1_PigLat\Capstone1_PigLat\obj\Debug\Capstone1_PigLat.csproj.CoreCompileInputs.cache
+c:\users\justi\source\repos\Capstone1_PigLat\Capstone1_PigLat\bin\Debug\Capstone1_PigLat.exe.config
+c:\users\justi\source\repos\Capstone1_PigLat\Capstone1_PigLat\bin\Debug\Capstone1_PigLat.exe
+c:\users\justi\source\repos\Capstone1_PigLat\Capstone1_PigLat\bin\Debug\Capstone1_PigLat.pdb
+c:\users\justi\source\repos\Capstone1_PigLat\Capstone1_PigLat\obj\Debug\Capstone1_PigLat.exe
+c:\users\justi\source\repos\Capstone1_PigLat\Capstone1_PigLat\obj\Debug\Capstone1_PigLat.pdb
